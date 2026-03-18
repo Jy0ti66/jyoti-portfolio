@@ -4,7 +4,7 @@ This is my personal portfolio website showcasing my projects, skills, and certif
 
 ## 🌐 Live Website
 
-https://your-lovable-link.lovable.app
+https://jyotiportfoliodev.lovable.app/
 
 ## 🚀 Features
 
